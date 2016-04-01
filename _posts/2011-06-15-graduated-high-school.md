@@ -6,22 +6,9 @@ summary:    I was kind of a big deal, want to see a picture?
 categories: graduated
 ---
 
-
-### There are lists, too
-
-  * Apples
-  * Oranges
-  * Potatoes
-  * Milk
-
-  1. Mow the lawn
-  2. Feed the dog
-  3. Dance
-
 ### This is a style I am bringing back
 
 
-![Image of Yaktocat](https://derekjacobi.github.com/images/yaktocat.png)
 ### A fan of:
 
 
