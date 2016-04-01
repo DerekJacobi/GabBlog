@@ -1,16 +1,7 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
-date:       2015-07-11
-summary:    Now, Pixyll is lighter weight and more customizable than before.
-categories: jekyll pixyll
+title:      I met a devishly handsome young man
+date:       2014-12-19
+summary:    He was wearing jeans tucked into boots and had a decent beard
+categories: home
 ---
-
-In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
-
-Pixyll now features:
-
-* Line anchors in code blocks and new syntax highlighting
-* A customizable variables file
-* Modular, and lighter weight CSS
-* No more `max-width` media queries
